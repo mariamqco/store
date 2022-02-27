@@ -1,0 +1,39 @@
+/* You can add global styles to this file, and also import other style files */
+:root{
+    --color-a: #eeedde;
+    --color-b: #E0DDAA;
+    --color-c: #203239;
+    --color-d: #141e27;
+
+    --color-e: #B4CFB0;
+    --color-f: #B4CFB0;
+    --color-g: #94B49F;
+    --color-h: #789395;
+
+    --color-i: #F5F5F5;
+    --color-j: #F05454;
+    --color-k: #30475E;
+    --color-l: #30475E;
+    
+
+
+}
+
+*{
+    padding:0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    width:100vw;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;        
+}
+
+
